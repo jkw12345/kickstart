@@ -15,7 +15,7 @@
    > Strg C
 5. . Führe folgende Git commands im Repository-Verzeichnis aus
    > git add . \
-   > git commit -m "Add react-app and github-workflows" \
+   > git commit -m "Add react-app" \
    > git push  
 
 Meldet euch bei mir, sobald ihr so weit seid! 
