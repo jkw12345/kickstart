@@ -37,5 +37,6 @@
   },
   "devDependencies": {
     "gh-pages": "^3.2.3"
-  }
+  },
+  "homepage": "https://jkw12345.github.io/kickstart/"
 }
