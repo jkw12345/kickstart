@@ -14,7 +14,7 @@
 4. Führe folgende Git commands im Repository-Verzeichnis aus
    > git add . \
    > git commit -m "Add react-app and github-workflows" \
-   > git push  \
+   > git push  
 
 Meldet euch bei mir, sobald ihr so weit seid! 
 
@@ -29,6 +29,7 @@ Meldet euch bei mir, sobald ihr so weit seid!
 ### Step 4
 1. Öffne deployment.yml
 2. Kopiere den zuvor ausgearbeiteten Code in das deployment.yml
-3. 
 
-Meldet euch bei mir, sobald ihr so weit seid! 
+
+Meldet euch bei mir, sobald ihr so weit seid, wir machen gemeinsam weiter!
+
