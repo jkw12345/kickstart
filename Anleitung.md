@@ -19,7 +19,7 @@
    > git push  
 
 Meldet euch bei mir, sobald ihr so weit seid! 
-d
+dd
 ### Step 3
 1. Erstelle im Repository-Verzeichnis folgenden Ordner:
    >mkdir .github/
