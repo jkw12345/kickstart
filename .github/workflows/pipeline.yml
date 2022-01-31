@@ -1,5 +1,5 @@
 name: Deployment 
-one: 
+on: 
   push:
       branches: 
         - master
