@@ -16,7 +16,7 @@
    > git commit -m "Add react-app and github-workflows" \
    > git push  
 
-Meldet euch bei mir, sobald ihr so weit seid! 
+Meldet euch ei mir, sobald ihr so weit seid! 
 
 ### Step 3
 1. Erstelle im Repository-Verzeichnis folgenden Ordner:
