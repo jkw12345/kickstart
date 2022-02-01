@@ -33,7 +33,7 @@ Meldet euch bei mir, sobald ihr so weit seid!
 2. Kopiere den zuvor ausgearbeiteten Code in das deployment.yml
 3. Push den Code 
    > git add . \
-   > git commit -m "AAdd pipeline" \
+   > git commit -m "Add pipeline" \
    > git push  
 
 Meldet euch bei mir, sobald ihr so weit seid, wir machen gemeinsam weiter!
@@ -48,5 +48,5 @@ Meldet euch bei mir, sobald ihr so weit seid, wir machen gemeinsam weiter!
    > "homepage": "https://<username>.github.io/<project>/",
 2. Push deinen Code, warte bis die Actions durchlaufen sind. Besuche deine Website. 
    > git add . \
-   > git commit -m "Add react-app" \
+   > git commit -m "Add URL" \
    > git push  
