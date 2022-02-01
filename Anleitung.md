@@ -38,12 +38,12 @@ Meldet euch bei mir, sobald ihr so weit seid!
 
 Meldet euch bei mir, sobald ihr so weit seid, wir machen gemeinsam weiter!
 
-### Step 4 
+### Step 5 
 1. Aktiviere Github Pages: in den Repository-Einstellungen auf Github
    > Source: Branch: gh-pages
 2. Nun solltest du die URL deiner Website sehen -> Ohne Inhalt 
 
-### Step 5 
+### Step 6
 1. Geh in deinen Code in package.json und füge folgendes (Mit deinen Git-Daten) in die Dritte Zeile ein:
    > "homepage": "https://<username>.github.io/<project>/",
 2. Push deinen Code, warte bis die Actions durchlaufen sind. Besuche deine Website. 
